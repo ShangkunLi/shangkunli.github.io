@@ -26,8 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Hong Kong SAR, China"
-  employer         : "Hong Kong University of Science and Technology"
-  uri              : # URL
+  employer         : "HKUST"
+  uri              : https://hkust.edu.hk # URL
   email            : "shangkun.li@connect.ust.hk" 
 
   # Academic websites
